@@ -1,0 +1,39 @@
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background: #f2f6ff;
+}
+
+header {
+    background: #174a8b;
+    color: white;
+    padding: 20px;
+}
+
+nav a {
+    color: white;
+    margin: 15px;
+    text-decoration: none;
+}
+
+section {
+    margin: 25px auto;
+    padding: 25px;
+    background: white;
+    max-width: 600px;
+    border-radius: 10px;
+}
+
+input, button {
+    padding: 10px;
+    margin: 5px;
+}
+
+button {
+    background: #174a8b;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
